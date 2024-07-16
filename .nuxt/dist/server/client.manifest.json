@@ -7,12 +7,12 @@
     "module": true,
     "resourceType": "script"
   },
-  "F:/codingan/IlhamStore/node_modules/nuxt/dist/app/entry.js": {
+  "H:/codingan/IlhamStore/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
     "isEntry": true,
-    "file": "F:/codingan/IlhamStore/node_modules/nuxt/dist/app/entry.js"
+    "file": "H:/codingan/IlhamStore/node_modules/nuxt/dist/app/entry.js"
   }
 }
